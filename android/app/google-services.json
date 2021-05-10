@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "100223937689",
+    "project_id": "rnlogin-f18a5",
+    "storage_bucket": "rnlogin-f18a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100223937689:android:f17b0eb3cdc5ea33651c08",
+        "android_client_info": {
+          "package_name": "com.rngooglelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100223937689-e65e5t673ctg16qh5bk8ch6fch575g1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rngooglelogin",
+            "certificate_hash": "05f90ab1783e5db03b8c4a028220757dc0c5d509"
+          }
+        },
+        {
+          "client_id": "100223937689-gc9gsjio5l1qh7vdd3hhmshcdf3voict.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG6fc4K4WSloDnixxQ_SYYpar1Su2_5KY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100223937689-gc9gsjio5l1qh7vdd3hhmshcdf3voict.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
